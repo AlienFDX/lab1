@@ -23,7 +23,7 @@ package lab1gui;
  *                                                                            *
  ******************************************************************************
  */
-//bb
+//bbb
 import java.io.BufferedReader;
 import java.io.DataInputStream;
 import java.io.File;
